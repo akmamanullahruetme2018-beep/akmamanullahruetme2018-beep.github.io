@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# After publication, run configure_site.py to add an absolute sitemap URL.
