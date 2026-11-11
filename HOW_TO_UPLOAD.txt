@@ -1,0 +1,15 @@
+FIX FOR YOUR CURRENT LIVE GITHUB PAGES REPOSITORY
+
+Your website is LIVE, but photos and CV links are broken because GitHub put the images and PDFs at the repository top level rather than inside assets/ and docs/.
+
+These revised 3 HTML files use the top-level filenames you already uploaded. They do not change the website design or content.
+
+1. Open https://github.com/akmamanullahruetme2018-beep/akmamanullahruetme2018-beep.github.io
+2. Choose Add file > Upload files.
+3. Drag the contents of THIS FOLDER (all HTML, PDF, DOCX, robots.txt, sitemap.xml).
+4. Commit changes. Choose replacement/overwrite of same-named files if prompted. Do not upload this HOW_TO_UPLOAD.txt file if you prefer.
+5. Wait for GitHub Pages to redeploy, then hard refresh (Ctrl + Shift + R) your live site.
+6. Test the photo at the top, the worm-gearbox gallery, and Download CV.
+7. Visit https://search.google.com/search-console/ to verify property and submit sitemap.xml.
+
+Website: https://akmamanullahruetme2018-beep.github.io/

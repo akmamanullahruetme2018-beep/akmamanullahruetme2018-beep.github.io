@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-# After publication, run configure_site.py to add an absolute sitemap URL.
+Sitemap: https://akmamanullahruetme2018-beep.github.io/sitemap.xml
